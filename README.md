@@ -1,3 +1,7 @@
-## Description 
+# 🚀 Getting Started 
 
-> This is step 1
+## Step-1
+
+```bash
+npm i cors express nodemon jsonwebtokens
+```
